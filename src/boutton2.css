@@ -1,0 +1,23 @@
+.buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+ 
+ 
+ 
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #a51792;;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ 
+button:hover {
+    background-color: #1022e9;
+}
+ 
